@@ -1,21 +1,41 @@
-# UI-clone-of-amazon-
+Amazon UI-Clone Website
 
-This project is a front-end clone of the Amazon website created for learning and practice purposes. The goal of this project was to improve my HTML and CSS skills by recreating the layout and design of a popular e-commerce platform.
+A simple Amazon-inspired website clone built as part of my front-end development practice. This project focuses on recreating the look and feel of Amazon's user interface using basic web technologies.
 
-Features
-Amazon-inspired homepage UI
-Responsive navigation bar
-Product sections and cards
-Footer section
-Clean and organized code structure
+About the Project :
 
-Technologies Used
+This project was created to strengthen my understanding of:
+
+HTML structure and semantic elements
+CSS styling and layouts
+Flexbox and responsive design concepts
+Website cloning for UI practice
+Built With
 HTML5
 CSS3
-Purpose
+Project Status
 
-This project was developed solely for educational purposes to practice front-end web development and understand how real-world websites are structured and designed.
+✔ Completed as a learning project
+
+Learning Outcomes
+
+Through this project, I learned:
+
+How to design complex web page layouts
+Creating navigation bars and product sections
+Organizing front-end code efficiently
+Improving UI development skills
+Getting Started
+
+Clone the repository:
+
+git clone <repository-link>
+Open the project folder.
+Run index.html in your browser.
+Note
+
+This project is a static front-end clone created for educational and practice purposes only. No commercial use is intended.
 
 Disclaimer
 
-This is not the official Amazon website and is not affiliated with or endorsed by Amazon in any way. All trademarks, logos, and brand names belong to their respective owners. This project is created only for learning and portfolio purposes.
+Amazon is a trademark of Amazon.com, Inc. This project is an independent educational exercise and is not associated with, sponsored by, or endorsed by Amazon.
