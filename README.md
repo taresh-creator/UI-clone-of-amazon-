@@ -8,6 +8,7 @@ Responsive navigation bar
 Product sections and cards
 Footer section
 Clean and organized code structure
+
 Technologies Used
 HTML5
 CSS3
